@@ -1,0 +1,11 @@
+--- why do we need to bind this in the whiteboarding question for student A
+--- why do we call the requestAPokemon function in the presentation component on this.props instead of how it's defined?
+--- how does pokemonID get extracted and know how to pull out the actual id number?
+--- bug we're facing now
+--- do we need to pass in the store to the root.jsx file (doesn't in solution)
+--- key id not needed in the LI pokemon_index_item component and fine to just have in the array in the pokemon_index file level?
+
+
+----
+
+-- why does render in pokemon_detail set this.props to undefined?
